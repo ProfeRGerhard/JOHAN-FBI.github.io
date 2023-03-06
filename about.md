@@ -7,12 +7,11 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+El (JOHAN ALAN) es un filontropo y director de historietas comicas que se a dedicado a lo largo de su vida, a promover las historietas con el fin de que mas ninños y sdolecentes por supuesto adulto, leean este tipo aventuras.for his own blog. Mas de 20 años lo respaldan como buen escritor una de las virtudes es el aprovechar al maximo sus capacidades como un superheroe al treer diferente estilos con sus maravillosas hazañas con esto dicho GRACIAS POR EL GRAN APOYO QUE RECIBO DE USTEDES:)(https://github.com/bencentra/centrarium).
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+Uno de las mayores capacidades que se encuentra en nuestro saber es la inteligencia por eso pido que den mas a la hora de escribir con un gran apoyo de nuestra parte en brindarle el mayor apoyo posible para ustedes.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Gracias por escucharme es un honor trabajar para ustedes:)
+Youtube:(https://www.youtube.com/watch?v=eHFA_wEK_00&list=RDeHFA_wEK_00&start_radio=1)
+Gmail: (gatos2000078@gmail.com)
+Twitter: ------------------@outlook.com
