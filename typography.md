@@ -34,44 +34,7 @@ main_nav: true
 <fieldset>
   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
 
- 
 
-    <p><label for="radio_buttons">Radio Buttons:</label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_1" /> Radio 1
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_2" /> Radio 2
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_3" /> Radio 3
-      </label>
-    </p>
-
-    <p><label for="checkboxes">Checkboxes:</label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_1" /> Checkbox 1
-      </label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_2" /> Checkbox 2
-      </label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_3" /> Checkbox 3
-      </label>
-    </p>
-
-    <p><label for="password">Password:</label>
-      <input type="password" class="password" name="password" />
-    </p>
-
-    <p><label for="file">File Input:</label>
-      <input type="file" class="file" name="file" />
-    </p>
-
-
-    <p><input type="submit" value="Submit" /></p>
-  </form>
-</fieldset>
 
 <hr>
 
