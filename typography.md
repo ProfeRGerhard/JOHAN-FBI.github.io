@@ -32,7 +32,7 @@ main_nav: true
 <h1 id="autobibliografias">AUTOBIBLIOGRAFIA</h1>
 
 <fieldset>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+  <p>Naci un 5 de mayo del 2004 en alguna parte de estado de mexico, en la madrugada pero fue un dia muy feliz para mis papas despues ellos tuvieron que cuidar de mi como 12 años porque no podia ser autosuficiente tuve que ser muy audaz pero salimos adelante, cuando tuve edad para asistir ala primaria fui y tuve unos grnades amigos que les mando un saludo,termine la primaria y tuve una cenamuy comoda. Despues fui a la secundaria como trea años dias muy normales ahrita tengo 18 años y estoy en la prepa pero pues saguirle adelante para tener una mejor vida</p>
 
 
 
