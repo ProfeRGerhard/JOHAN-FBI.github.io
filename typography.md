@@ -26,47 +26,10 @@ main_nav: true
 
 <p>Las solicitudes y de las mas grandes y poderosas que se han visto</p>
 
-<hr>
 
-<h1 id="list_types">List Types</h1>
 
-<p>Lists are unstyled by defualt. To restore the original styling, add the <code>.default</code> class</p>
 
-<h3>Definition List</h3>
-<dl>
-  <dt>Definition List Title</dt>
-  <dd>This is a definition list division.</dd>
-</dl>
 
-<h3>Ordered List</h3>
-<ol>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>Unordered List</h3>
-<ul>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ul>
-
-<h3>Ordered List with <code>.default</code> class</h3>
-<ol class="default">
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>Unordered List with <code>.default</code> class</h3>
-<ul class="default">
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ul>
-
-<hr>
 
 <h1 id="form_elements">Fieldsets and Form Elements</h1>
 
