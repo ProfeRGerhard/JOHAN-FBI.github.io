@@ -34,30 +34,7 @@ main_nav: true
 <fieldset>
   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
 
-  <form>
-    <h2>Form Element</h2>
-
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
-
-    <p><label for="text_field">Text Field:</label>
-      <input type="text" id="text_field" /></p>
-
-    <p><label for="text_area">Text Area:</label>
-      <textarea id="text_area"></textarea></p>
-
-    <p><label for="select_element">Select Element:</label>
-      <select name="select_element">
-        <optgroup label="Option Group 1">
-          <option value="1">Option 1</option>
-          <option value="2">Option 2</option>
-          <option value="3">Option 3</option>
-        </optgroup>
-        <optgroup label="Option Group 2">
-          <option value="1">Option 1</option>
-          <option value="2">Option 2</option>
-          <option value="3">Option 3</option>
-        </optgroup>
-    </select></p>
+ 
 
     <p><label for="radio_buttons">Radio Buttons:</label>
       <label>
