@@ -11,14 +11,12 @@ main_nav: true
 
 <h1 id="historias">Historias</h1>
 
-<h1>h1. LA VENGANZA DE LOS TRES HERMANOS</h1>
-<h2>h2. TU Y YO</h2>
-<h3>h3. LAS DESAPARICIONES, LA HISTORIA NO CONTADA</h3>
-<h4>h4. VOLVER A VIVIR OTRA VIDA</h4>
-<h5>h5. GATO, EL PERSONAJE MAS CARISMATICO</h5>
-<h6>h6. NO ERES TU YA</h6>
+<h1>h1. MI NACIMIENTO</h1>
+<h2>h2. EL PRESCOLAR</h2>
+<h3>h3. LA HISTORIA</h3>
+<h4>h4. MIS VACACIONES</h4>
 
-<hr>
+
 
 <h1 id="solicitudes">Solicitudes</h1>
 
