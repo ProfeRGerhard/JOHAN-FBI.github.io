@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:  Acerca del creador de esta historieta
 permalink: /about/
 main_nav: true
 ---
