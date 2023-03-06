@@ -1,30 +1,30 @@
 ---
 layout: page
-title: Typography
+title: Historias comicas
 permalink: /typography/
 main_nav: true
 ---
 
-<p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+<p>Un gran numero de historiestas para ver grandes aventuras con nuestros heroes y villanos, un apredizaje de los personajes inonvidables una repuesta mas que confirma que nuestros mas grades anelos se pueden convertir en la realidad misma y que para eso debemos de trabajar cada dia mas por nuestros sueños</p>
 
 <hr>
 
-<h1 id="headings">Headings</h1>
+<h1 id="historias">Historias</h1>
 
-<h1>h1. Heading</h1>
-<h2>h2. Heading</h2>
-<h3>h3. Heading</h3>
-<h4>h4. Heading</h4>
-<h5>h5. Heading</h5>
-<h6>h6. Heading</h6>
+<h1>h1. LA VENGANZA DE LOS TRES HERMANOS</h1>
+<h2>h2. TU Y YO</h2>
+<h3>h3. LAS DESAPARICIONES, LA HISTORIA NO CONTADA</h3>
+<h4>h4. VOLVER A VIVIR OTRA VIDA</h4>
+<h5>h5. GATO, EL PERSONAJE MAS CARISMATICO</h5>
+<h6>h6. NO ERES TU YA</h6>
 
 <hr>
 
-<h1 id="paragraph">Paragraph</h1>
+<h1 id="solicitudes">Solicitudes</h1>
 
-<p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
 
-<p>Lorem ipsum dolor sit amet, <em>emphasis</em> consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
+
+<p>Las solicitudes y de las mas grandes y poderosas que se han visto</p>
 
 <hr>
 
