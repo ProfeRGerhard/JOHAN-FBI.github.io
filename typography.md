@@ -16,10 +16,8 @@ main_nav: true
 <h1 id="Johan Alan Salazar Flores">Johan Alan Salazar Flores
 Promotor de torneos de futbol</h1>
 
-<h1>h1. MI NACIMIENTO</h1>
-<h2>h2. EL PRESCOLAR</h2>
-<h3>h3. LA HISTORIA</h3>
-<h4>h4. MIS VACACIONES</h4>
+Experincia laboral
+
 
 
 
