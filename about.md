@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Acerca del creador de esta historieta
+title:  Acerca de esta persona (Johan Alan)
 permalink: /about/
 main_nav: true
 ---
