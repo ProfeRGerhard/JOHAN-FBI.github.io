@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Historias comicas
+title: Curriculum Vitae
 permalink: /typography/
 main_nav: true
 ---
