@@ -19,7 +19,8 @@ main_nav: true
 
 
 <h1 id="solicitudes">Historias</h1>
-h1.Mi nacimiento
+h1.MI NACIMIENTO
+
 
 
 <p>Las solicitudes y de las mas grandes y poderosas que se han visto</p>
