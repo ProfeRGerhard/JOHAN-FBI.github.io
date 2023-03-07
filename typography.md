@@ -5,11 +5,16 @@ permalink: /typography/
 main_nav: true
 ---
 
-<p>Un gran numero de historiestas para ver grandes aventuras con nuestros heroes y villanos, un apredizaje de los personajes inonvidables una repuesta mas que confirma que nuestros mas grades anelos se pueden convertir en la realidad misma y que para eso debemos de trabajar cada dia mas por nuestros sueños</p>
+<p>Habilidades
+°Gran forma de negociar y llegar a un acuerdo
+°Es gran horador fantastico
+°Siempre llegara a un acurdo vaborable para el y su equipo
+°Los acurdos que siempre firma acaban de una buena forma</p>
 
 <hr>
 
-<h1 id="historias">Historias</h1>
+<h1 id="Johan Alan Salazar Flores">Johan Alan Salazar Flores
+Promotor de torneos de futbol</h1>
 
 <h1>h1. MI NACIMIENTO</h1>
 <h2>h2. EL PRESCOLAR</h2>
