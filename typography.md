@@ -21,6 +21,10 @@ Experincia laboral
 -Fue fundador en el año 2010 de su empresa y maximo accionista
 -Tiene 3 veces el premio al promotor mas influyente del año
 -A ocupado mas de tres veces la dirreccion ejecutiva de su empresa
+
+
+
+
 Educacion
 -Estudio la facultadad de estudios superiores en la Anahuac
 -Tiene un titulo de posgrado
