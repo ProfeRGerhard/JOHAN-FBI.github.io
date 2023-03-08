@@ -22,9 +22,6 @@ Experincia laboral
 -Tiene 3 veces el premio al promotor mas influyente del año
 -A ocupado mas de tres veces la dirreccion ejecutiva de su empresa
 
-
-
-
 Educacion
 -Estudio la facultadad de estudios superiores en la Anahuac
 -Tiene un titulo de posgrado
@@ -32,8 +29,6 @@ Educacion
 -Es promotor de la firma "Ayuda al joven.com"
 <h1 id="solicitudes">Historias</h1>
 h1.MI NACIMIENTO
-
-
 
 <p>Las solicitudes y de las mas grandes y poderosas que se han visto</p>
 
