@@ -32,15 +32,7 @@ h1.MI NACIMIENTO
 
 <p>Las solicitudes y de las mas grandes y poderosas que se han visto</p>
 
-
-
-
-
-
 <h1 id=""></h1>
 
 <fieldset>
   <p></p>
-
-
-
